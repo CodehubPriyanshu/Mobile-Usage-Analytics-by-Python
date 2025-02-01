@@ -13,6 +13,10 @@ Watch the video to see the project in action on Google Colab, where I run the sc
 
 https://github.com/user-attachments/assets/f340695a-0767-441f-854a-121d1c73f0ec
 
+# 📂 Dataset
+The dataset used in this project can be accessed from:
+🔗https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset
+
 # 🚀 How to Run the Project
 Clone this repository:
 
